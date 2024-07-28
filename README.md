@@ -96,7 +96,7 @@ On Innovation Day, we created an exciting project that fetches song lyrics, pass
 
 ## Acknowledgements
 
-- Thanks to [Lyrics.ovh](https://api.lyrics.ovh) for providing the API.
+- Thanks to [Lyrics.ovh](https://lyrics.ovh) for providing the API.
 - Special thanks to the team for the innovative spirit and collaboration! 🤝
 
 ## License
